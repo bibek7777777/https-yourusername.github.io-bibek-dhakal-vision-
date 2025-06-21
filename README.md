@@ -133,7 +133,7 @@ Bibek dhakal vision
   </div>
 
   <div class="contact">
-    Contact me: <a href="mailto:bibek@example.com">bibek@example.com</a>
+    Contact me: <a href="mailto:bibek. Dhakal777@gmail.com ">bibek@example.com</a>
   </div>
 </body>
 </html>
